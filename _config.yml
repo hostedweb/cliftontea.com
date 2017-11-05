@@ -1,0 +1,9 @@
+# Site settings
+title: Clifton Tea
+description:
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
